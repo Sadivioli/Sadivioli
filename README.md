@@ -11,7 +11,7 @@
 |:----------|:----|
 | 🌐 [Travel Agency UI](https://github.com/Sadivioli/Strona_statyczna_WWW_UJ_2022-2023) | Implementation of the 'Travel agency UI' |
 | :sparkles: [Travel Agency UI prototype](https://github.com/Sadivioli/Travel_Agency_UI_Prototype) | Prototype for an imaginary travel agency |
-| :mag: [Job scraper](https://github.com/Sadivioli/todo-app) | Websraper, made to search for job opportunities on multiple sites, given filters |
+| :mag: [Job scraper](https://github.com/Sadivioli/Py_websrcaper) | Websraper, made to search for job opportunities on multiple sites, given filters |
 | 🔌 [Countires API](https://github.com/Sadivioli/CountriesAPI) | Tiny project using the [REST Countries API](https://restcountries.com/) in JavaScript |
 
 <h3>
